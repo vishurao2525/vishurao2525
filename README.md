@@ -1,3 +1,4 @@
+![Vishal's Github Stats](https://github-readme-stats.vercel.app/api?username=vishurao2525&show_icons=true)
 ### Hi there 👋
 
 <!--
